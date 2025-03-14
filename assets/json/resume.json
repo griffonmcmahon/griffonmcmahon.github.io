@@ -32,7 +32,12 @@
       "startDate": "2020",
       "endDate": "2022",
       "score": "10",
-      "courses": ["ESE 619: Model Predictive Control", "MEAM 517: Control and Optimization/Application in Robotics","CIS 581: Computer Vision and Computational Photography", "ESE 615: Autonomous Racing"]
+      "courses": [
+        "ESE 619: Model Predictive Control",
+        "MEAM 517: Control and Optimization/Application in Robotics",
+        "CIS 581: Computer Vision and Computational Photography",
+        "ESE 615: Autonomous Racing"
+      ]
     },
     {
       "institution": "Purdue University",
@@ -54,7 +59,11 @@
       "startDate": "2022-08",
       "date": "",
       "summary": "",
-      "highlights": ["Examines the effects of inserting a paucity of agents into a swarm with the goal of influencing the behavior of the whole", "Quantifies uncertainty in unpredictable systems with conformal prediction used in the realm of target tracking", "Tracks agents with unknown dynamics in the presence of occlusions and faulty models"]
+      "highlights": [
+        "Examines the effects of inserting a paucity of agents into a swarm with the goal of influencing the behavior of the whole",
+        "Quantifies uncertainty in unpredictable systems with conformal prediction used in the realm of target tracking",
+        "Tracks agents with unknown dynamics in the presence of occlusions and faulty models"
+      ]
     },
     {
       "name": "United States Naval Research Laboratory",
@@ -63,7 +72,10 @@
       "startDate": "2024-06",
       "endDate": "2024-08",
       "summary": "",
-      "highlights": ["Analyzed many agents swarming modeled through delay differential equations using mean field analysis", "Employed bifurcation theory to determine the conditions in which a swarm would switch from one behavior to another"]
+      "highlights": [
+        "Analyzed many agents swarming modeled through delay differential equations using mean field analysis",
+        "Employed bifurcation theory to determine the conditions in which a swarm would switch from one behavior to another"
+      ]
     },
     {
       "name": "Kod*lab, University of Pennsylvania",
@@ -72,7 +84,11 @@
       "startDate": "2021-01",
       "endDate": "2022-05",
       "summary": "",
-      "highlights": ["Developed gaits for Jerboa, an underactuated and tailed bipedal robot, to take advantage of internal degrees of freedom for improved locomotion", "Analyzed dynamics behind hybrid, non-linear systems—especially legged robotics—using templates and anchors", "Implemented control algorithms in both simulation and hardware using event-based guards and feedback control"]
+      "highlights": [
+        "Developed gaits for Jerboa, an underactuated and tailed bipedal robot, to take advantage of internal degrees of freedom for improved locomotion",
+        "Analyzed dynamics behind hybrid, non-linear systems—especially legged robotics—using templates and anchors",
+        "Implemented control algorithms in both simulation and hardware using event-based guards and feedback control"
+      ]
     },
     {
       "name": "Jain Research Lab, Purdue University",
@@ -81,7 +97,12 @@
       "startDate": "2018",
       "endDate": "2020",
       "summary": "",
-      "highlights": ["Maintained and developed code using partially-observable Markov decision processes and Bayesian statistics to implement machine learning", "Authored conference paper applying clustering algorithms to human behavior", "Conducted human subject research to sense trust in automated systems using real-time sensors","Crafted experiment design for examining human-machine interactions in the case of autonomous vehicles using a driving simulator"]
+      "highlights": [
+        "Maintained and developed code using partially-observable Markov decision processes and Bayesian statistics to implement machine learning",
+        "Authored conference paper applying clustering algorithms to human behavior",
+        "Conducted human subject research to sense trust in automated systems using real-time sensors",
+        "Crafted experiment design for examining human-machine interactions in the case of autonomous vehicles using a driving simulator"
+      ]
     }
   ],
   "volunteer": [
@@ -92,7 +113,11 @@
       "startDate": "2022",
       "endDate": "2025",
       "summary": "I was a TA in the springs of 2022, 2024, and 2025. On top of normal grading; assignment creating and testing; and other odd jobs, I:",
-      "highlights": ["Updated legacy codebase post-pandemic for quadcopter control with minimizing learning curve and chance of errors under student use in mind", "Guided students in deploying code on quadrotors (Crazyflie 2.1) for the purposes of control, trajectory planning, and path finding", "Maintained drone hardware throughout crashes stemming from student-made code"]
+      "highlights": [
+        "Updated legacy codebase post-pandemic for quadcopter control with minimizing learning curve and chance of errors under student use in mind",
+        "Guided students in deploying code on quadrotors (Crazyflie 2.1) for the purposes of control, trajectory planning, and path finding",
+        "Maintained drone hardware throughout crashes stemming from student-made code"
+      ]
     },
     {
       "organization": "University of Pennsylvania",
@@ -101,7 +126,11 @@
       "startDate": "2021-08",
       "endDate": "2021-12",
       "summary": "",
-      "highlights": ["Assisted students with manipulator control of a Franka Emika Panda Arm in simulation and hardware for a pick and place task", "Debugged many lines of student code", "Ensured that the final project was entertaining and engaging"]
+      "highlights": [
+        "Assisted students with manipulator control of a Franka Emika Panda Arm in simulation and hardware for a pick and place task",
+        "Debugged many lines of student code",
+        "Ensured that the final project was entertaining and engaging"
+      ]
     }
   ],
   "awards": [
@@ -132,36 +161,20 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "C/C++",
-        "HTML/CSS/JavaScript"
-      ]
+      "keywords": ["Python", "MATLAB", "C/C++", "HTML/CSS/JavaScript"]
     },
     {
       "name": "Miscellaneous Software",
       "level": "",
       "icon": "fa-solid fa-desktop",
-      "keywords": [
-        "Robotic Operating System (ROS)",
-        "Linux",
-        "SolidWorks",
-        "LabVIEW",
-        "Git"
-      ]
+      "keywords": ["Robotic Operating System (ROS)", "Linux", "SolidWorks", "LabVIEW", "Git"]
     }
   ],
   "interests": [
     {
       "name": "Engineering",
       "icon": "fa-solid fa-cog",
-      "keywords": [
-        "Control Systems",
-        "Multi-Agent Interaction",
-        "Stability Analysis",
-        "Human-Machine Interaction"
-      ]
+      "keywords": ["Control Systems", "Multi-Agent Interaction", "Stability Analysis", "Human-Machine Interaction"]
     }
   ]
 }
