@@ -7,7 +7,7 @@ first_name: Griffon
 middle_name: G.
 last_name: McMahon
 contact_note: >
-  Email preferred
+  Contact
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Griffon McMahon's website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -49,7 +49,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: false
+socials_in_search: true
 bib_search: false
 
 # Dimensions
@@ -190,6 +190,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
