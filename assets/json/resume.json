@@ -135,6 +135,13 @@
   ],
   "awards": [
     {
+      "title": "First Place, 10th F1TENTH Autonomous Grand Prix",
+      "date": "2022",
+      "awarder": "EEE International Conference on Robotics and Automation (ICRA) 2022",
+      "url": "https://icra2022-race.f1tenth.org/",
+      "summary": "Worked with Penn classmates in team ScatterBrain to win a head-to-head bracket undefeated, racing autonomous RC cars in an international field."
+    },
+    {
       "title": "Master's Award for Teaching",
       "date": "2022",
       "awarder": "University of Pennsylvania",
