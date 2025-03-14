@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graduate Research Fellow with <a href='https://scalar.seas.upenn.edu'>ScalAR Lab</a> at the University of Pennsylvania
 
