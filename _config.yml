@@ -7,7 +7,7 @@ first_name: Griffon
 middle_name: G.
 last_name: McMahon
 contact_note: >
-  Contact
+  Contact through email preferred
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Griffon McMahon's website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
