@@ -15,6 +15,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --file {{ site.scholar.bibliography }} --query @*[my=true] %}
 
 </div>
