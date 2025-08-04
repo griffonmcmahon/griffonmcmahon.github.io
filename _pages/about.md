@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Research Fellow with <a href='https://scalar.seas.upenn.edu'>ScalAR Lab</a> at the <a href='https://www.upenn.edu/'>University of Pennsylvania</a>
+subtitle: Roboticist and controls engineer currently looking for work
 
 profile:
   align: right
@@ -19,8 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I'm a mechanical engineer with chief interests in robotics and control systems. My goal is simple: make robotic systems move and actuate in a way that's useful. Quadrotor/drone flight, autonomous driving, and legged locomotion are a few areas I've worked in, and they're all satisfying in their own ways. One thing unites all of them: it's great to make hardware work.
-
-Right now, I'm examining ways to disrupt the behaviors of large multi-agent teams through the insertion of a few agents at a time.
-
-I'm also currently on the search for full-time employment.
+I am a mechanical engineer with chief interests in robotics and control systems. My goal is simple: make robotic systems move and actuate in useful ways. Quadrotor/drone flight and swarming; autonomous driving, either from the perspective of a human driver or AI-driven race car; and legged locomotion are a few areas I've worked in. They are all satisfying in their own ways, but one thing unites all of them: it's great to see systems move like you want them to.

@@ -6,7 +6,7 @@
     "email": "griffonmcmahon@gmail.com",
     "phone": "(918) 978-0298",
     "url": "https://griffonmcmahon.com",
-    "summary": "Oklahoman-born engineer, Purdue alumnus, UPenn graduate researcher",
+    "summary": "Oklahoman-born engineer, Purdue alumnus, UPenn roboticist",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -28,7 +28,7 @@
       "location": "Philadelphia, PA",
       "url": "https://www.grasp.upenn.edu/academics/masters-degree-program/",
       "area": "Robotics",
-      "studyType": "MSE",
+      "studyType": "Master of Science in Engineering",
       "startDate": "2020",
       "endDate": "2022",
       "score": "10",
@@ -44,7 +44,7 @@
       "location": "West Lafayette, IN",
       "url": "https://engineering.purdue.edu/ME/Undergraduate",
       "area": "Mechanical Engineering",
-      "studyType": "BSME",
+      "studyType": "Bachelor of Science in Mechanical Engineering",
       "startDate": "2016",
       "endDate": "2020",
       "score": "10",
@@ -54,19 +54,21 @@
   "work": [
     {
       "name": "ScalAR Lab, University of Pennsylvania",
+      "location": "Philadelphia, PA",
       "position": "Graduate Research Fellow",
       "url": "https://scalar.seas.upenn.edu/",
       "startDate": "2022-08",
-      "date": "",
+      "endDate": "2025-05",
       "summary": "",
       "highlights": [
-        "Examines the effects of inserting a paucity of agents into a swarm with the goal of influencing the behavior of the whole",
-        "Quantifies uncertainty in unpredictable systems with conformal prediction used in the realm of target tracking",
-        "Tracks agents with unknown dynamics in the presence of occlusions and faulty models"
+        "Examined the effects of inserting a paucity of agents into a swarm with the goal of influencing the behavior of the whole",
+        "Quantified uncertainty in unpredictable systems with conformal prediction used in the realm of target tracking",
+        "Tracked agents with unknown dynamics in the presence of occlusions and faulty models"
       ]
     },
     {
       "name": "United States Naval Research Laboratory",
+      "location": "Washington, DC",
       "position": "Naval Research Enterprise Intern",
       "url": "https://www.navalsteminterns.us/nreip/",
       "startDate": "2024-06",
@@ -74,11 +76,13 @@
       "summary": "",
       "highlights": [
         "Analyzed many agents swarming modeled through delay differential equations using mean field analysis",
-        "Employed bifurcation theory to determine the conditions in which a swarm would switch from one behavior to another"
+        "Employed bifurcation theory to determine the conditions in which a swarm would switch from one behavior to another",
+        "Worked in a secure federal environment"
       ]
     },
     {
       "name": "Kod*lab, University of Pennsylvania",
+      "location": "Philadelphia, PA",
       "position": "Graudate Research Assistant",
       "url": "https://kodlab.seas.upenn.edu/",
       "startDate": "2021-01",
@@ -92,6 +96,7 @@
     },
     {
       "name": "Jain Research Lab, Purdue University",
+      "location": "West Lafayette, IN",
       "position": "Undergraduate Research Assistant",
       "url": "https://engineering.purdue.edu/JainResearchLab/",
       "startDate": "2018",
@@ -112,7 +117,7 @@
       "position": "Teaching Assistant, MEAM 620: Advanced Robot Control",
       "startDate": "2022",
       "endDate": "2025",
-      "summary": "I was a TA in the springs of 2022, 2024, and 2025. On top of normal grading; assignment creating and testing; and other odd jobs, I:",
+      "summary": "I was a TA in the springs of 2022, 2024, and 2025. On top of normal grading, assignment creating and testing, and other odd jobs, I:",
       "highlights": [
         "Updated legacy codebase post-pandemic for quadcopter control with minimizing learning curve and chance of errors under student use in mind",
         "Guided students in deploying code on quadrotors (Crazyflie 2.1) for the purposes of control, trajectory planning, and path finding",
