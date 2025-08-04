@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-f1tenth-autonomous-racing",
           title: 'F1TENTH Autonomous Racing',
-          description: "Winning internationally with self-driving RC cars",
+          description: "Winning internationally with self-driving RC cars (section under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/f1tenth.html";
             },},{id: "projects-hip-energized-hopping-on-jerboa",
@@ -92,17 +92,17 @@ ninja.data = [{
               window.location.href = "/projects/jerboa.html";
             },},{id: "projects-quantifying-uncertainty-in-swarm-motion",
           title: 'Quantifying Uncertainty in Swarm Motion',
-          description: "Using conformal prediction to quantify the uncertainty of a learned model",
+          description: "Using conformal prediction to quantify the uncertainty of a learned model (section under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/knode_swarm.html";
             },},{id: "projects-optical-flow-to-improve-image-segmentation",
           title: 'Optical Flow to Improve Image Segmentation',
-          description: "Predicting trajectories and keeping track of objects in the presence of errors",
+          description: "Predicting trajectories and keeping track of objects in the presence of errors (section under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/optical_flow.html";
             },},{id: "projects-competitive-pick-and-place",
           title: 'Competitive Pick and Place',
-          description: "Racing to pick up blocks with a robot arm faster than the other team",
+          description: "Racing to pick up blocks with a robot arm faster than the other team (section under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pick_and_place.html";
             },},{id: "projects-time-delay-induced-bistability-in-swarms",
@@ -112,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/swarm_bistability.html";
             },},{id: "projects-target-tracking-in-the-presence-of-occlusions",
           title: 'Target Tracking in the Presence of Occlusions',
-          description: "Conformal prediction to ensure observational coverage by a quadrotor",
+          description: "Conformal prediction to ensure observational coverage by a quadrotor (section under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/target_tracking.html";
             },},{
