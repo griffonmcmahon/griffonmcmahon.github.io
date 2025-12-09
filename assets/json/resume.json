@@ -121,7 +121,7 @@
       "highlights": [
         "Updated legacy codebase post-pandemic for quadcopter control with minimizing learning curve and chance of errors under student use in mind",
         "Guided students in deploying code on quadrotors (Crazyflie 2.1) for the purposes of control, trajectory planning, and path finding",
-        "Maintained drone hardware throughout crashes stemming from student-made code"
+        "Maintained drone hardware throughout crashes stemming from student-made code",
         "Led team of TAs to ensure timeliness and productivity"
       ]
     },
