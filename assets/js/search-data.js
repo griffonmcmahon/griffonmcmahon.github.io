@@ -112,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/swarm_bistability.html";
             },},{id: "projects-target-tracking-in-the-presence-of-occlusions",
           title: 'Target Tracking in the Presence of Occlusions',
-          description: "Conformal prediction to ensure observational coverage by a quadrotor (section under construction)",
+          description: "Conformal prediction to ensure observational coverage by a quadrotor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/target_tracking.html";
             },},{
