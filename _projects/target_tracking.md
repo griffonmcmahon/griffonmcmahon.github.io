@@ -28,7 +28,7 @@ If something were to block the drone from seeing the target, then the drone migh
 <div class="row">
     <div class="col-sm-2 mt-3 mt-md-0"></div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/target_tracking/cp_approach.gif" title="A simple flowchart for how conformal prediction fits into this system" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/target_tracking/cp_approach.png" title="A simple flowchart for how conformal prediction fits into this system" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0"></div>
 </div>
