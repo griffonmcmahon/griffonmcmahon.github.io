@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-f1tenth-autonomous-racing",
           title: 'F1TENTH Autonomous Racing',
-          description: "Winning internationally with self-driving RC cars (section under construction)",
+          description: "First place internationally with self-driving RC cars",
           section: "Projects",handler: () => {
               window.location.href = "/projects/f1tenth.html";
             },},{id: "projects-hip-energized-hopping-on-jerboa",
