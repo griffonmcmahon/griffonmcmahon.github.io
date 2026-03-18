@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hip-Energized Hopping on Jerboa
-description: Work with Kod*lab
+description: Work with Kod*lab on a hip-energized robotic biped
 img: assets/img/jerboa/jerboa.JPG
 importance: 2
 category: Research
