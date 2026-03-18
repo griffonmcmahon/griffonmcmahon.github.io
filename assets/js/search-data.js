@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "Some of my projects. Descriptions currently under construction.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/projects/f1tenth.html";
             },},{id: "projects-hip-energized-hopping-on-jerboa",
           title: 'Hip-Energized Hopping on Jerboa',
-          description: "Work with Kod*lab",
+          description: "Work with Kod*lab on a hip-energized robotic biped",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jerboa.html";
             },},{id: "projects-quantifying-uncertainty-in-swarm-motion",
@@ -97,12 +97,12 @@ ninja.data = [{
               window.location.href = "/projects/knode_swarm.html";
             },},{id: "projects-optical-flow-to-improve-image-segmentation",
           title: 'Optical Flow to Improve Image Segmentation',
-          description: "Predicting trajectories and keeping track of objects in the presence of errors (section under construction)",
+          description: "Combining YOLO with optical flow for more robust object indexing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/optical_flow.html";
-            },},{id: "projects-competitive-pick-and-place",
-          title: 'Competitive Pick and Place',
-          description: "Racing to pick up blocks with a robot arm faster than the other team (section under construction)",
+            },},{id: "projects-competitive-robot-arm-pick-and-place",
+          title: 'Competitive Robot Arm Pick and Place',
+          description: "Block stacking against an opponent using a simulated Lynx 5 robotic arm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pick_and_place.html";
             },},{id: "projects-time-delay-induced-bistability-in-swarms",
