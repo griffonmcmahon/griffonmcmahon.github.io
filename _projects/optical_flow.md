@@ -4,7 +4,7 @@ title: Optical Flow to Improve Image Segmentation
 description: Combining YOLO with optical flow for more robust object indexing
 img: assets/img/opt_flow/afterOptFlow.jpg
 importance: 3
-category: Academic Projects
+category: Course-Related Projects
 ---
 
 <div class="row">

@@ -4,7 +4,7 @@ title: F1TENTH Autonomous Racing
 description: First place internationally with self-driving RC cars
 img: assets/img/f1tenth/thumbnail.jpg
 importance: 1
-category: Academic Projects
+category: Course-Related Projects
 ---
 
 
@@ -31,9 +31,9 @@ The natural starting point was PID for steering, which does a remarkable amount 
     A video showing the MPC controller working with opponent avoidance in simulation.
 </div>
 
-I also attempted an Antilock Brake System to avoid sliding while braking by releasing the brakes when slipping was detected, but it turned out to be slower than simply braking hard—sometimes the mechanically simple answer wins. Still, it was neat how it made the single-gear electronic car [sound like it was downshifting into a corner](https://www.youtube.com/watch?v=cSVZ8z5h6vM).
+I also attempted an Antilock Brake System (ABS) to avoid sliding while braking by releasing the brakes when slipping was detected, but it turned out to be slower than simply braking hard—sometimes the mechanically simple answer wins. Still, it was neat how it made the single-gear electronic car [sound like it was downshifting into a corner](https://www.youtube.com/watch?v=cSVZ8z5h6vM).
 
-The most productive implementation was parameterizing the racing line corner-by-corner using Bézier curves, encoding braking distances and turn entry/exit points based on the car's actual dynamics just like a driver honing a lap. This allowed for a great amount of tweaking and easy setup between tracks: all we had to do was define the length of a "straight" and the angle of the next turn. This was a triumph in translating real-world knowledge into engineering inputs.
+The most productive implementation was parameterizing the racing line corner-by-corner using continuous curvature spirals (to ensure smooth steering), encoding braking distances and turn entry/exit points based on the car's actual dynamics just like a driver honing a lap. This allowed for a great amount of tweaking and easy setup between tracks: all we had to do was define the length of a "straight" and the angle of the next turn. This was a triumph in translating real-world knowledge into engineering inputs.
 
 
 

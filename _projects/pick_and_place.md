@@ -4,7 +4,7 @@ title: Competitive Robot Arm Pick and Place
 description: Block stacking against an opponent using a simulated Lynx 5 robotic arm
 img: assets/img/picknplace/Battlefield.PNG
 importance: 2
-category: Academic Projects
+category: Course-Related Projects
 ---
 
 
