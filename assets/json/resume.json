@@ -8,11 +8,11 @@
     "url": "https://griffonmcmahon.com",
     "summary": "Oklahoman-born engineer, Purdue alumnus, UPenn roboticist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "foo",
+      "postalCode": "bar",
+      "city": "hidden",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -119,6 +119,7 @@
       "endDate": "2025",
       "summary": "I was a TA in the springs of 2022, 2024, and 2025. On top of normal grading, assignment creating and testing, and other odd jobs, I:",
       "highlights": [
+        "Instructed students on Kalman filters (for simulated IMU and camera data), PID control, and simulation to hardware tuning and deployment",
         "Updated legacy codebase post-pandemic for quadcopter control with minimizing learning curve and chance of errors under student use in mind",
         "Guided students in deploying code on quadrotors (Crazyflie 2.1) for the purposes of control, trajectory planning, and path finding",
         "Maintained drone hardware throughout crashes stemming from student-made code",
@@ -145,7 +146,7 @@
       "date": "2022",
       "awarder": "IEEE International Conference on Robotics and Automation (ICRA) 2022",
       "url": "https://icra2022-race.f1tenth.org/",
-      "summary": "Worked with Penn classmates in team ScatterBrain to win a head-to-head bracket undefeated, racing autonomous RC cars in an international field."
+      "summary": "Won international competition undefeated on team ScatterBrain using model predictive control (MPC), NVIDIA Jetson, and hardware-friendly trajectory planning"
     },
     {
       "title": "Master's Award for Teaching",
@@ -187,7 +188,7 @@
     {
       "name": "Engineering",
       "icon": "fa-solid fa-cog",
-      "keywords": ["Control Systems", "Multi-Agent Interaction", "Stability Analysis", "Human-Machine Interaction"]
+      "keywords": ["Control Systems", "Multi-Agent Interaction", "Stability Analysis", "Human-Machine Interaction", "Kinematics", "Reinforcement Learning", "MPC", "Hybrid/Nonlinear Systems", "Neural Networks", "Sensor Integration/Filtering", "Image Processing"]
     }
   ]
 }
